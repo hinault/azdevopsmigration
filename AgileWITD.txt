@@ -1,0 +1,15 @@
+Réponse de revue de code,Code Review Response
+Bogue,Bug
+Demande de revue de code,Code Review Request
+Épopée,Epic
+Fonctionnalité,Feature
+Demande de commentaires,Feedback Request
+Réponse aux commentaires,Feedback Response
+Étapes partagées,Shared Steps
+Tâche,Task
+Cas de test,Test Case
+Plan de test,Test Plan
+Suite de tests,Test Suite
+Scénario utilisateur,User Story
+Problème,Issue
+Paramètre partagé,Shared Parameter
