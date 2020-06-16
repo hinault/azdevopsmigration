@@ -1,0 +1,150 @@
+System.IterationPath,Iteration Path
+System.IterationId,Iteration ID
+System.ExternalLinkCount,External Link Count
+System.TeamProject,Team Project
+System.HyperLinkCount,Hyperlink Count
+System.AttachedFileCount,Attached File Count
+System.NodeName,Node Name
+System.AreaPath,Area Path
+System.RevisedDate,Revised Date
+System.ChangedDate,Changed Date
+System.AreaId,Area ID
+System.Title,Title
+System.State,State
+System.Rev,Rev
+System.ChangedBy,Changed By
+System.Reason,Reason
+System.AssignedTo,Assigned To
+System.WorkItemType,Work Item Type
+System.CreatedDate,Created Date
+System.CreatedBy,Created By
+System.History,History
+System.RelatedLinkCount,Related Link Count
+Microsoft.VSTS.Scheduling.StoryPoints,Story Points
+Microsoft.VSTS.Scheduling.RemainingWork,Remaining Work
+Microsoft.VSTS.Scheduling.OriginalEstimate,Original Estimate
+Microsoft.VSTS.Scheduling.CompletedWork,Completed Work
+Microsoft.VSTS.Common.Activity,Activity
+Microsoft.VSTS.TCM.SystemInfo,System Info
+Microsoft.VSTS.TCM.ReproSteps,Repro Steps
+Microsoft.VSTS.Common.StateChangeDate,State Change Date
+Microsoft.VSTS.Common.ActivatedDate,Activated Date
+Microsoft.VSTS.Common.ActivatedBy,Activated By
+Microsoft.VSTS.Common.ResolvedDate,Resolved Date
+Microsoft.VSTS.Common.ResolvedBy,Resolved By
+Microsoft.VSTS.Common.ResolvedReason,Resolved Reason
+Microsoft.VSTS.Common.ClosedDate,Closed Date
+Microsoft.VSTS.Common.ClosedBy,Closed By
+Microsoft.VSTS.Common.Priority,Priority
+Microsoft.VSTS.Common.Severity,Severity
+Microsoft.VSTS.Common.StackRank,Stack Rank
+Microsoft.VSTS.Common.ValueArea,Value Area
+Microsoft.VSTS.Build.IntegrationBuild,Integration Build
+Microsoft.VSTS.Build.FoundIn,Found In
+Microsoft.VSTS.CodeReview.ClosingComment,Closing Comment
+Microsoft.VSTS.CodeReview.ContextCode,Associated Context Code
+Microsoft.VSTS.CodeReview.ContextType,Associated Context Type
+Microsoft.VSTS.CodeReview.Context,Associated Context
+Microsoft.VSTS.CodeReview.ContextOwner,Associated Context Owner
+Microsoft.VSTS.CodeReview.ClosedStatusCode,Closed Status Code
+Microsoft.VSTS.CodeReview.ClosedStatus,Closed Status
+Microsoft.VSTS.Common.StateCode,State Code
+Microsoft.VSTS.CodeReview.AcceptedDate,Accepted Date
+Microsoft.VSTS.CodeReview.AcceptedBy,Accepted By
+Microsoft.VSTS.Common.ReviewedBy,Reviewed By
+Microsoft.VSTS.Common.Risk,Risk
+Microsoft.VSTS.Scheduling.TargetDate,Target Date
+Microsoft.VSTS.Common.BusinessValue,Business Value
+Microsoft.VSTS.Common.TimeCriticality,Time Criticality
+Microsoft.VSTS.Feedback.ApplicationType,Application Type
+Microsoft.VSTS.Feedback.ApplicationStartInformation,Application Start Information
+Microsoft.VSTS.Feedback.ApplicationLaunchInstructions,Application Launch Instructions
+Microsoft.VSTS.Common.Rating,Rating
+Microsoft.VSTS.Common.Issue,Issue
+Microsoft.VSTS.TCM.Steps,Steps
+Microsoft.VSTS.TCM.Parameters,Parameters
+Microsoft.VSTS.Scheduling.StartDate,Start Date
+Microsoft.VSTS.Scheduling.FinishDate,Finish Date
+Microsoft.VSTS.TCM.AutomatedTestName,Automated Test Name
+Microsoft.VSTS.TCM.AutomatedTestStorage,Automated Test Storage
+Microsoft.VSTS.TCM.AutomatedTestId,Automated Test Id
+Microsoft.VSTS.TCM.AutomatedTestType,Automated Test Type
+Microsoft.VSTS.TCM.LocalDataSource,Local Data Source
+Microsoft.VSTS.TCM.AutomationStatus,Automation status
+Microsoft.VSTS.TCM.TestSuiteTypeId,Test Suite Type Id
+Microsoft.VSTS.TCM.TestSuiteType,Test Suite Type
+Microsoft.VSTS.TCM.QueryText,Query Text
+Microsoft.VSTS.TCM.TestSuiteAudit,Test Suite Audit
+Microsoft.VSTS.Common.AcceptanceCriteria,Acceptance Criteria
+Microsoft.VSTS.Scheduling.DueDate,Due Date
+Microsoft.VSTS.Scheduling.Size,Size
+Microsoft.VSTS.CMMI.Blocked,Blocked
+Microsoft.VSTS.CMMI.Symptom,Symptom
+Microsoft.VSTS.CMMI.ProposedFix,Proposed Fix
+Microsoft.VSTS.CMMI.FoundInEnvironment,Found In Environment
+Microsoft.VSTS.CMMI.RootCause,Root Cause
+Microsoft.VSTS.CMMI.HowFound,How Found
+Microsoft.VSTS.CMMI.TaskType,Task Type
+Microsoft.VSTS.CMMI.RequiresReview,Requires Review
+Microsoft.VSTS.CMMI.RequiresTest,Requires Test
+Microsoft.VSTS.CMMI.Analysis,Analysis
+Microsoft.VSTS.CMMI.CorrectiveActionPlan,Corrective Action Plan
+Microsoft.VSTS.CMMI.CorrectiveActionActualResolution,Corrective Action Actual Resolution
+Microsoft.VSTS.CMMI.TargetResolveDate,Target Resolve Date
+Microsoft.VSTS.CMMI.Escalate,Escalate
+Microsoft.VSTS.CMMI.ImpactOnArchitecture,Impact on Architecture
+Microsoft.VSTS.CMMI.ImpactOnUserExperience,Impact on User Experience
+Microsoft.VSTS.CMMI.ImpactOnTest,Impact on Test
+Microsoft.VSTS.CMMI.ImpactOnDevelopment,Impact on Development
+Microsoft.VSTS.CMMI.ImpactOnTechnicalPublications,Impact on Technical Publications
+Microsoft.VSTS.CMMI.MitigationTriggers,Mitigation Triggers
+Microsoft.VSTS.CMMI.MitigationPlan,Mitigation Plan
+Microsoft.VSTS.CMMI.ContingencyPlan,Contingency Plan
+Microsoft.VSTS.CMMI.Probability,Probability
+Microsoft.VSTS.CMMI.RequirementType,Requirement Type
+Microsoft.VSTS.CMMI.Committed,Committed
+Microsoft.VSTS.CMMI.ImpactAssessmentHtml,Impact Assessment HTML
+Microsoft.VSTS.CMMI.UserAcceptanceTest,User Acceptance Test
+Microsoft.VSTS.CMMI.SubjectMatterExpert1,Subject Matter Expert 1
+Microsoft.VSTS.CMMI.SubjectMatterExpert2,Subject Matter Expert 2
+Microsoft.VSTS.CMMI.SubjectMatterExpert3,Subject Matter Expert 3
+Microsoft.VSTS.CMMI.Purpose,Purpose
+Microsoft.VSTS.CMMI.Comments,Comments
+Microsoft.VSTS.CMMI.MeetingType,Meeting Type
+Microsoft.VSTS.CMMI.CalledDate,Called Date
+Microsoft.VSTS.CMMI.CalledBy,Called By
+Microsoft.VSTS.CMMI.RequiredAttendee1,Required Attendee 1
+Microsoft.VSTS.CMMI.RequiredAttendee2,Required Attendee 2
+Microsoft.VSTS.CMMI.RequiredAttendee3,Required Attendee 3
+Microsoft.VSTS.CMMI.RequiredAttendee4,Required Attendee 4
+Microsoft.VSTS.CMMI.RequiredAttendee5,Required Attendee 5
+Microsoft.VSTS.CMMI.RequiredAttendee6,Required Attendee 6
+Microsoft.VSTS.CMMI.RequiredAttendee7,Required Attendee 7
+Microsoft.VSTS.CMMI.RequiredAttendee8,Required Attendee 8
+Microsoft.VSTS.CMMI.OptionalAttendee1,Optional Attendee 1
+Microsoft.VSTS.CMMI.OptionalAttendee2,Optional Attendee 2
+Microsoft.VSTS.CMMI.OptionalAttendee3,Optional Attendee 3
+Microsoft.VSTS.CMMI.OptionalAttendee4,Optional Attendee 4
+Microsoft.VSTS.CMMI.OptionalAttendee5,Optional Attendee 5
+Microsoft.VSTS.CMMI.OptionalAttendee6,Optional Attendee 6
+Microsoft.VSTS.CMMI.OptionalAttendee7,Optional Attendee 7
+Microsoft.VSTS.CMMI.OptionalAttendee8,Optional Attendee 8
+Microsoft.VSTS.CMMI.ActualAttendee1,Actual Attendee 1
+Microsoft.VSTS.CMMI.ActualAttendee2,Actual Attendee 2
+Microsoft.VSTS.CMMI.ActualAttendee3,Actual Attendee 3
+Microsoft.VSTS.CMMI.ActualAttendee4,Actual Attendee 4
+Microsoft.VSTS.CMMI.ActualAttendee5,Actual Attendee 5
+Microsoft.VSTS.CMMI.ActualAttendee6,Actual Attendee 6
+Microsoft.VSTS.CMMI.ActualAttendee7,Actual Attendee 7
+Microsoft.VSTS.CMMI.ActualAttendee8,Actual Attendee 8
+Microsoft.VSTS.Common.BacklogPriority,Backlog Priority
+Microsoft.VSTS.Common.Resolution,Resolution
+System.RemoteLinkCount,Remote Link Count
+System.CommentCount,Comment Count
+System.AuthorizedAs,Authorized As
+System.AuthorizedDate,Authorized Date
+System.Watermark,Watermark
+System.Tags,Tags
+System.BoardColumn,Board Column
+System.BoardColumnDone,Board Column Done
+System.BoardLane,Board Lane
